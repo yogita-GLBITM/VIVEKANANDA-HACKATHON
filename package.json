@@ -1,0 +1,7 @@
+{
+  "name": "vivek-beyond-marks",
+  "private": true,
+  "scripts": {
+    "install-all": "npm --prefix server install && npm --prefix client install"
+  }
+}

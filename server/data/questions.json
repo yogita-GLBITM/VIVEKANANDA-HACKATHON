@@ -1,0 +1,650 @@
+{
+  "2-5": [
+    {
+      "id": "2_5-1",
+      "question": "How many apples are shown if you have 3 apples and get 1 more?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Count the apples: 3 + 1 = 4.",
+      "difficulty": "Easy",
+      "subject": "Math",
+      "ageGroup": "2-5",
+      "hint": "Count on one more from three."
+    },
+    {
+      "id": "2_5-2",
+      "question": "Which shape has no corners?",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A circle is round and has no corners.",
+      "difficulty": "Easy",
+      "subject": "Reasoning",
+      "ageGroup": "2-5",
+      "hint": "Look for the shape with a curved boundary."
+    },
+    {
+      "id": "2_5-3",
+      "question": "What comes next: 1, 2, 3, ?",
+      "options": [
+        "4",
+        "5",
+        "1",
+        "6"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The numbers increase by one.",
+      "difficulty": "Easy",
+      "subject": "Patterns",
+      "ageGroup": "2-5",
+      "hint": "Count forward one step."
+    },
+    {
+      "id": "2_5-4",
+      "question": "Which one is usually used when it rains?",
+      "options": [
+        "Umbrella",
+        "Spoon",
+        "Pencil",
+        "Book"
+      ],
+      "correctAnswer": "A",
+      "explanation": "An umbrella helps keep you dry in rain.",
+      "difficulty": "Easy",
+      "subject": "Awareness",
+      "ageGroup": "2-5",
+      "hint": "Think about what protects you from rain."
+    },
+    {
+      "id": "2_5-5",
+      "question": "Which animal says 'meow'?",
+      "options": [
+        "Cat",
+        "Cow",
+        "Dog",
+        "Horse"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cats commonly make a meow sound.",
+      "difficulty": "Easy",
+      "subject": "Awareness",
+      "ageGroup": "2-5",
+      "hint": "Which animal's sound is meow?"
+    },
+    {
+      "id": "2_5-6",
+      "question": "What color do you get when you mix red and yellow?",
+      "options": [
+        "Orange",
+        "Green",
+        "Blue",
+        "Purple"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Red and yellow make orange.",
+      "difficulty": "Easy",
+      "subject": "Awareness",
+      "ageGroup": "2-5",
+      "hint": "Think of a common warm color between red and yellow."
+    },
+    {
+      "id": "2_5-7",
+      "question": "Which number is bigger?",
+      "options": [
+        "8",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctAnswer": "A",
+      "explanation": "8 is greater than 5, 3 and 2.",
+      "difficulty": "Easy",
+      "subject": "Math",
+      "ageGroup": "2-5",
+      "hint": "Compare the values."
+    },
+    {
+      "id": "2_5-8",
+      "question": "Which object can you read?",
+      "options": [
+        "Book",
+        "Ball",
+        "Cup",
+        "Shoe"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A book contains words and pages to read.",
+      "difficulty": "Easy",
+      "subject": "Language",
+      "ageGroup": "2-5",
+      "hint": "Look for the object made for reading."
+    },
+    {
+      "id": "2_5-9",
+      "question": "What should you do before crossing a road?",
+      "options": [
+        "Look both ways",
+        "Run quickly",
+        "Close your eyes",
+        "Play"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Looking both ways helps you check for traffic.",
+      "difficulty": "Easy",
+      "subject": "Safety",
+      "ageGroup": "2-5",
+      "hint": "Think about staying safe near vehicles."
+    },
+    {
+      "id": "2_5-10",
+      "question": "Which is a fruit?",
+      "options": [
+        "Mango",
+        "Chair",
+        "Pencil",
+        "Shoe"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A mango is a fruit.",
+      "difficulty": "Easy",
+      "subject": "Awareness",
+      "ageGroup": "2-5",
+      "hint": "Which option can grow on a plant?"
+    }
+  ],
+  "6-8": [
+    {
+      "id": "6_8-1",
+      "question": "What is 7 \u00d7 6?",
+      "options": [
+        "42",
+        "36",
+        "48",
+        "56"
+      ],
+      "correctAnswer": "A",
+      "explanation": "7 groups of 6 make 42.",
+      "difficulty": "Easy",
+      "subject": "Mathematics",
+      "ageGroup": "6-8",
+      "hint": "Multiply 7 by 6."
+    },
+    {
+      "id": "6_8-2",
+      "question": "Which planet is known for its rings?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Mercury",
+        "Earth"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Saturn is famous for its prominent ring system.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "6-8",
+      "hint": "Think of the planet often drawn with rings."
+    },
+    {
+      "id": "6_8-3",
+      "question": "What is the next number: 5, 10, 15, 20, ?",
+      "options": [
+        "25",
+        "30",
+        "22",
+        "24"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The pattern adds 5 each time.",
+      "difficulty": "Easy",
+      "subject": "Reasoning",
+      "ageGroup": "6-8",
+      "hint": "Find the constant increase."
+    },
+    {
+      "id": "6_8-4",
+      "question": "Choose the word closest in meaning to 'brave'.",
+      "options": [
+        "Courageous",
+        "Quiet",
+        "Angry",
+        "Slow"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Brave and courageous are similar in meaning.",
+      "difficulty": "Medium",
+      "subject": "Language",
+      "ageGroup": "6-8",
+      "hint": "Look for the word meaning not afraid to act."
+    },
+    {
+      "id": "6_8-5",
+      "question": "Which gas do humans need for breathing?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium",
+        "Hydrogen"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Humans use oxygen during respiration.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "6-8",
+      "hint": "Which gas is taken in when we breathe?"
+    },
+    {
+      "id": "6_8-6",
+      "question": "A shopkeeper has 50 pencils and sells 18. How many remain?",
+      "options": [
+        "32",
+        "38",
+        "28",
+        "30"
+      ],
+      "correctAnswer": "A",
+      "explanation": "50 \u2212 18 = 32.",
+      "difficulty": "Medium",
+      "subject": "Mathematics",
+      "ageGroup": "6-8",
+      "hint": "Subtract the number sold from the starting amount."
+    },
+    {
+      "id": "6_8-7",
+      "question": "Which is a renewable source of energy?",
+      "options": [
+        "Sunlight",
+        "Coal",
+        "Petrol",
+        "Diesel"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sunlight is naturally replenished.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "6-8",
+      "hint": "Choose the source that nature continually provides."
+    },
+    {
+      "id": "6_8-8",
+      "question": "If all roses are flowers and this is a rose, what can we conclude?",
+      "options": [
+        "It is a flower",
+        "It is a tree",
+        "It is a fruit",
+        "It is a bird"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The statement places roses inside the group of flowers.",
+      "difficulty": "Easy",
+      "subject": "Reasoning",
+      "ageGroup": "6-8",
+      "hint": "Use the relationship given in the question."
+    },
+    {
+      "id": "6_8-9",
+      "question": "Which sentence is correctly punctuated?",
+      "options": [
+        "Where are you?",
+        "Where are you.",
+        "Where are you,",
+        "Where are you!"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A direct question ends with a question mark.",
+      "difficulty": "Easy",
+      "subject": "Language",
+      "ageGroup": "6-8",
+      "hint": "Look at the punctuation needed for a question."
+    },
+    {
+      "id": "6_8-10",
+      "question": "A student tries a puzzle, gets it wrong, then tries a new method. What behaviour is visible?",
+      "options": [
+        "Perseverance",
+        "Skipping",
+        "Avoidance",
+        "Distraction"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trying another method after an error is an observable persistence behaviour.",
+      "difficulty": "Medium",
+      "subject": "Learning Behaviour",
+      "ageGroup": "6-8",
+      "hint": "Focus on what the student did after the mistake."
+    }
+  ],
+  "9-11": [
+    {
+      "id": "9_11-1",
+      "question": "What is 15% of 200?",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "35"
+      ],
+      "correctAnswer": "A",
+      "explanation": "15% of 200 is 30.",
+      "difficulty": "Medium",
+      "subject": "Mathematics",
+      "ageGroup": "9-11",
+      "hint": "10% is 20 and 5% is 10; add them."
+    },
+    {
+      "id": "9_11-2",
+      "question": "Which process do plants use to make food?",
+      "options": [
+        "Photosynthesis",
+        "Digestion",
+        "Respiration",
+        "Filtration"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Plants use photosynthesis to make food using light energy.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "9-11",
+      "hint": "Think of the process powered by sunlight."
+    },
+    {
+      "id": "9_11-3",
+      "question": "Find the next number: 2, 6, 12, 20, ?",
+      "options": [
+        "30",
+        "28",
+        "32",
+        "26"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The differences are 4, 6, 8, so the next difference is 10.",
+      "difficulty": "Medium",
+      "subject": "Reasoning",
+      "ageGroup": "9-11",
+      "hint": "Look at the differences between terms."
+    },
+    {
+      "id": "9_11-4",
+      "question": "If a train travels 60 km in 1 hour, how far in 3 hours at the same speed?",
+      "options": [
+        "180 km",
+        "120 km",
+        "150 km",
+        "240 km"
+      ],
+      "correctAnswer": "A",
+      "explanation": "60 \u00d7 3 = 180 km.",
+      "difficulty": "Easy",
+      "subject": "Mathematics",
+      "ageGroup": "9-11",
+      "hint": "Multiply the hourly distance by 3."
+    },
+    {
+      "id": "9_11-5",
+      "question": "Which organ pumps blood through the body?",
+      "options": [
+        "Heart",
+        "Lung",
+        "Kidney",
+        "Stomach"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The heart pumps blood through the circulatory system.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "9-11",
+      "hint": "Think of the organ that beats continuously."
+    },
+    {
+      "id": "9_11-6",
+      "question": "Which is an example of a renewable resource?",
+      "options": [
+        "Wind",
+        "Coal",
+        "Natural gas",
+        "Petroleum"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Wind is naturally replenished.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "9-11",
+      "hint": "Choose the resource that does not run out through normal use."
+    },
+    {
+      "id": "9_11-7",
+      "question": "A person reads a difficult question twice before answering. Which behaviour is most directly observable?",
+      "options": [
+        "Careful engagement",
+        "Scientific concentration score",
+        "IQ",
+        "Personality"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Reading twice is an observable interaction pattern, not proof of a psychological trait.",
+      "difficulty": "Medium",
+      "subject": "Learning Behaviour",
+      "ageGroup": "9-11",
+      "hint": "Choose what can actually be observed."
+    },
+    {
+      "id": "9_11-8",
+      "question": "Choose the antonym of 'ancient'.",
+      "options": [
+        "Modern",
+        "Old",
+        "Historic",
+        "Past"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Modern is the opposite of ancient.",
+      "difficulty": "Easy",
+      "subject": "Language",
+      "ageGroup": "9-11",
+      "hint": "Look for the word meaning current or recent."
+    },
+    {
+      "id": "9_11-9",
+      "question": "If a rectangle has length 8 cm and width 5 cm, what is its area?",
+      "options": [
+        "40 cm\u00b2",
+        "26 cm\u00b2",
+        "13 cm\u00b2",
+        "80 cm\u00b2"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Area = length \u00d7 width = 8 \u00d7 5 = 40 cm\u00b2.",
+      "difficulty": "Easy",
+      "subject": "Mathematics",
+      "ageGroup": "9-11",
+      "hint": "Multiply length and width."
+    },
+    {
+      "id": "9_11-10",
+      "question": "A learner makes one mistake but keeps attempting the problem. Which VIVEK signal is most relevant?",
+      "options": [
+        "Perseverance",
+        "Medical resilience",
+        "IQ",
+        "Mood diagnosis"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Continuing after a mistake is an observable perseverance behaviour.",
+      "difficulty": "Medium",
+      "subject": "Learning Behaviour",
+      "ageGroup": "9-11",
+      "hint": "Focus on the action after the error."
+    }
+  ],
+  "12-15": [
+    {
+      "id": "12_15-1",
+      "question": "If 3x + 5 = 20, what is x?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correctAnswer": "A",
+      "explanation": "3x = 15, so x = 5.",
+      "difficulty": "Easy",
+      "subject": "Mathematics",
+      "ageGroup": "12-15",
+      "hint": "Subtract 5 first, then divide by 3."
+    },
+    {
+      "id": "12_15-2",
+      "question": "Which statement best describes inertia?",
+      "options": [
+        "An object resists a change in its state of motion",
+        "Objects always move faster when heavy",
+        "Heat always flows upward",
+        "Every force creates electricity"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Inertia is the tendency to resist changes in motion.",
+      "difficulty": "Medium",
+      "subject": "Science",
+      "ageGroup": "12-15",
+      "hint": "Think about an object's resistance to changing its motion."
+    },
+    {
+      "id": "12_15-3",
+      "question": "Find the next term: 3, 7, 13, 21, ?",
+      "options": [
+        "31",
+        "29",
+        "30",
+        "33"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Differences are 4, 6, 8, so add 10.",
+      "difficulty": "Medium",
+      "subject": "Reasoning",
+      "ageGroup": "12-15",
+      "hint": "Compare the gaps between consecutive terms."
+    },
+    {
+      "id": "12_15-4",
+      "question": "A student spends 18 seconds on one question, 40 on another and 42 on a third. What is the average time?",
+      "options": [
+        "33.3 seconds",
+        "30 seconds",
+        "36 seconds",
+        "40 seconds"
+      ],
+      "correctAnswer": "A",
+      "explanation": "(18 + 40 + 42) / 3 = 100/3 \u2248 33.3 seconds.",
+      "difficulty": "Medium",
+      "subject": "Mathematics",
+      "ageGroup": "12-15",
+      "hint": "Add the three times and divide by 3."
+    },
+    {
+      "id": "12_15-5",
+      "question": "Which part of a cell contains most of its genetic material?",
+      "options": [
+        "Nucleus",
+        "Cell wall",
+        "Vacuole",
+        "Ribosome"
+      ],
+      "correctAnswer": "A",
+      "explanation": "In typical eukaryotic cells, the nucleus contains most genetic material.",
+      "difficulty": "Easy",
+      "subject": "Science",
+      "ageGroup": "12-15",
+      "hint": "Think of the cell's main genetic control centre."
+    },
+    {
+      "id": "12_15-6",
+      "question": "If all A are B and no B are C, can any A be C?",
+      "options": [
+        "No",
+        "Yes, always",
+        "Only if A is larger",
+        "Cannot tell because A and B are unrelated"
+      ],
+      "correctAnswer": "A",
+      "explanation": "If A is inside B and B does not overlap C, A cannot overlap C.",
+      "difficulty": "Medium",
+      "subject": "Reasoning",
+      "ageGroup": "12-15",
+      "hint": "Use the set relationships carefully."
+    },
+    {
+      "id": "12_15-7",
+      "question": "Which sentence is the clearest example of initiative?",
+      "options": [
+        "I tried a new approach before asking for help.",
+        "I waited for someone to solve it.",
+        "I skipped it immediately.",
+        "I copied the first answer."
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trying a new approach independently is an observable initiative behaviour.",
+      "difficulty": "Easy",
+      "subject": "Learning Behaviour",
+      "ageGroup": "12-15",
+      "hint": "Look for an action taken without waiting for someone else."
+    },
+    {
+      "id": "12_15-8",
+      "question": "A learner changes an answer after rereading the question. What can the platform safely record?",
+      "options": [
+        "The answer was changed after rereading",
+        "The learner has low confidence",
+        "The learner is anxious",
+        "The learner has a specific personality type"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The platform can record the interaction itself; it should not infer a psychological state from it.",
+      "difficulty": "Easy",
+      "subject": "Learning Behaviour",
+      "ageGroup": "12-15",
+      "hint": "Choose the observable event."
+    },
+    {
+      "id": "12_15-9",
+      "question": "Which is the strongest reason to use a hint in VIVEK?",
+      "options": [
+        "To support thinking without revealing the answer",
+        "To guarantee a correct answer",
+        "To measure IQ",
+        "To finish faster"
+      ],
+      "correctAnswer": "A",
+      "explanation": "A hint should scaffold thinking rather than reveal the answer.",
+      "difficulty": "Easy",
+      "subject": "Learning Behaviour",
+      "ageGroup": "12-15",
+      "hint": "Choose the purpose that supports independent learning."
+    },
+    {
+      "id": "12_15-10",
+      "question": "A learner gets a question wrong, tries again, uses a hint and then solves it. Which combination is visible?",
+      "options": [
+        "Retry + support use + successful continuation",
+        "Clinical resilience + IQ",
+        "Fear + anxiety",
+        "Personality score"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The interaction sequence is directly observable.",
+      "difficulty": "Medium",
+      "subject": "Learning Behaviour",
+      "ageGroup": "12-15",
+      "hint": "Choose the description based only on recorded actions."
+    }
+  ]
+}
